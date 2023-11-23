@@ -72,6 +72,7 @@ class Program
 
             Console.WriteLine("\n"); // Friendly linespacing.
         }
+        calculator.Finish();
         return;
     }
 }
